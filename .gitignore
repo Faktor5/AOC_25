@@ -2,6 +2,9 @@
 *.input
 *.output
 
+# VS Code specific
+.vscode/
+
 # Golang
 bin/
 obj/
